@@ -16,7 +16,11 @@
 - The game was tested using **GCC 13.2.0** and **VS Code**.  
 
 ### Compilation & Execution  
-1. Open a terminal in the project directory.  
+1. Use Git to clone the project repository:  
+     ```bash
+     git clone https://github.com/truongbaan/simple-c-game.git
+     cd simple-c-game
+     ```  
 2. Compile the game using:  
    ```sh
    gcc -o rpg_game main_rpg_game.c
